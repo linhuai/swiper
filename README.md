@@ -15,6 +15,11 @@ swiper 使用及源码分析
 
 **实现原理**
 
-(1) MutationObserver
+**(1) MutationObserver**
 
-(2) requestAnimationFrame
+[https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver](https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver)
+
+**(2) requestAnimationFrame**
+
+[https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame)
+
